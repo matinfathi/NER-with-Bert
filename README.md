@@ -1,7 +1,7 @@
 # NER with Bert
 Trained Bert for NER on MIT Movie corpus.
 ```
-pip install -r Requrequirement.txt
+pip install -r Requirement.txt
 ```
 It is possible to fine-tune the parameters with other hyper-parameters. change them and run`training.py`
 
